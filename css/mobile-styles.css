@@ -1,0 +1,23 @@
+@media only screen and (max-width: 767px) {
+     .table-wrapper{
+        width:400px!important;
+        margin:0 auto;
+    }
+    .hero>img
+    {
+        width:400px!important;
+        height:auto!iportant;
+    }
+    .hero-border-sm{
+        height:1px!important;
+    }
+    .hero-border-lg{
+        height:10px!important;
+    }
+    
+    .secondary-content{
+        width:100%!important;
+        margin:0!important;
+    }
+    
+}
